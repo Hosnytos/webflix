@@ -1,1 +1,3 @@
-This project was bootstrapped with Create React App.
+# Webflix - Flutter
+
+* This app displays a list of movies and details for some of them. It is based on TMDB's (The Movie DataBase) Api.
